@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma-ethi" format="2">
+  <advance width="831"/>
+  <unicode hex="1363"/>
+  <outline>
+    <contour>
+      <point x="303" y="1030" type="qcurve"/>
+      <point x="571" y="1081" type="line"/>
+      <point x="621" y="1022"/>
+      <point x="621" y="956" type="qcurve" smooth="yes"/>
+      <point x="621" y="887"/>
+      <point x="571" y="827" type="qcurve"/>
+      <point x="303" y="778" type="line"/>
+      <point x="369" y="838"/>
+      <point x="369" y="907" type="qcurve" smooth="yes"/>
+      <point x="369" y="973"/>
+    </contour>
+    <contour>
+      <point x="207" y="1171" type="line"/>
+      <point x="678" y="1245" type="line"/>
+      <point x="678" y="1202" type="line"/>
+      <point x="207" y="1126" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="590" type="qcurve"/>
+      <point x="571" y="639" type="line"/>
+      <point x="621" y="582"/>
+      <point x="621" y="514" type="qcurve" smooth="yes"/>
+      <point x="621" y="444"/>
+      <point x="571" y="385" type="qcurve"/>
+      <point x="303" y="336" type="line"/>
+      <point x="369" y="395"/>
+      <point x="369" y="465" type="qcurve" smooth="yes"/>
+      <point x="369" y="530"/>
+    </contour>
+  </outline>
+</glyph>

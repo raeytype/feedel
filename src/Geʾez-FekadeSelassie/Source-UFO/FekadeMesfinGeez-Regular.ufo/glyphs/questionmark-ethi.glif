@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questionmark-ethi" format="2">
+  <advance width="657"/>
+  <unicode hex="1367"/>
+  <outline>
+    <contour>
+      <point x="184" y="922" type="qcurve"/>
+      <point x="453" y="972" type="line"/>
+      <point x="502" y="914"/>
+      <point x="502" y="849" type="qcurve" smooth="yes"/>
+      <point x="502" y="779"/>
+      <point x="453" y="720" type="qcurve"/>
+      <point x="184" y="671" type="line"/>
+      <point x="250" y="730"/>
+      <point x="250" y="800" type="qcurve" smooth="yes"/>
+      <point x="250" y="865"/>
+    </contour>
+    <contour>
+      <point x="184" y="449" type="qcurve"/>
+      <point x="453" y="498" type="line"/>
+      <point x="502" y="440"/>
+      <point x="502" y="375" type="qcurve" smooth="yes"/>
+      <point x="502" y="305"/>
+      <point x="453" y="246" type="qcurve"/>
+      <point x="184" y="197" type="line"/>
+      <point x="250" y="256"/>
+      <point x="250" y="326" type="qcurve" smooth="yes"/>
+      <point x="250" y="391"/>
+    </contour>
+    <contour>
+      <point x="184" y="1352" type="qcurve"/>
+      <point x="453" y="1402" type="line"/>
+      <point x="502" y="1344"/>
+      <point x="502" y="1279" type="qcurve" smooth="yes"/>
+      <point x="502" y="1209"/>
+      <point x="453" y="1150" type="qcurve"/>
+      <point x="184" y="1101" type="line"/>
+      <point x="250" y="1160"/>
+      <point x="250" y="1230" type="qcurve" smooth="yes"/>
+      <point x="250" y="1295"/>
+    </contour>
+  </outline>
+</glyph>
