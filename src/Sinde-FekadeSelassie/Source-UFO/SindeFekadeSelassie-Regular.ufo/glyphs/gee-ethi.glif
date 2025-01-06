@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gee-ethi" format="2">
+  <advance width="465"/>
+  <unicode hex="130C"/>
+  <outline>
+    <contour>
+      <point x="418" y="541" type="qcurve"/>
+      <point x="418" y="524"/>
+      <point x="312" y="0" type="qcurve"/>
+      <point x="183" y="0" type="line"/>
+      <point x="302" y="591" type="line"/>
+      <point x="303" y="599"/>
+      <point x="303" y="607" type="qcurve" smooth="yes"/>
+      <point x="303" y="642"/>
+      <point x="248" y="690"/>
+      <point x="208" y="687" type="qcurve"/>
+      <point x="203" y="668"/>
+      <point x="183" y="639" type="qcurve"/>
+      <point x="158" y="600"/>
+      <point x="125" y="577" type="qcurve" smooth="yes"/>
+      <point x="115" y="570"/>
+      <point x="84" y="567" type="qcurve" smooth="yes"/>
+      <point x="64" y="565"/>
+      <point x="40" y="577" type="qcurve"/>
+      <point x="64" y="615"/>
+      <point x="64" y="642" type="qcurve" smooth="yes"/>
+      <point x="64" y="666"/>
+      <point x="48" y="687" type="qcurve" smooth="yes"/>
+      <point x="46" y="690"/>
+      <point x="46" y="695" type="qcurve" smooth="yes"/>
+      <point x="46" y="717"/>
+      <point x="72" y="717" type="qcurve" smooth="yes"/>
+      <point x="126" y="717"/>
+      <point x="274" y="725" type="qcurve"/>
+      <point x="345" y="726"/>
+      <point x="425" y="653"/>
+      <point x="425" y="591" type="qcurve" smooth="yes"/>
+      <point x="425" y="567"/>
+    </contour>
+  </outline>
+</glyph>

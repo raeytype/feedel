@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wordspace-ethi" format="2">
+  <advance width="286"/>
+  <unicode hex="1361"/>
+  <unicode hex="F022"/>
+  <outline>
+    <contour>
+      <point x="213" y="301" type="line"/>
+      <point x="231" y="415" type="line"/>
+      <point x="123" y="415" type="line"/>
+      <point x="103" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="119" type="line"/>
+      <point x="202" y="234" type="line"/>
+      <point x="94" y="234" type="line"/>
+      <point x="75" y="118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

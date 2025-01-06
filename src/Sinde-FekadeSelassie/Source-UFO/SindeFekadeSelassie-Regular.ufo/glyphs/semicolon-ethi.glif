@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon-ethi" format="2">
+  <advance width="252"/>
+  <unicode hex="1364"/>
+  <unicode hex="F097"/>
+  <outline>
+    <contour>
+      <point x="212" y="580" type="line"/>
+      <point x="212" y="543" type="line"/>
+      <point x="40" y="543" type="line"/>
+      <point x="40" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="377" type="line"/>
+      <point x="82" y="378" type="line"/>
+      <point x="80" y="493" type="line"/>
+      <point x="189" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="197" type="line"/>
+      <point x="82" y="197" type="line"/>
+      <point x="80" y="313" type="line"/>
+      <point x="189" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="133" type="line"/>
+      <point x="212" y="96" type="line"/>
+      <point x="40" y="96" type="line"/>
+      <point x="40" y="133" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bo-ethi" format="2">
+  <advance width="593"/>
+  <unicode hex="1266"/>
+  <outline>
+    <contour>
+      <point x="552" y="595" type="qcurve" smooth="yes"/>
+      <point x="488" y="176" type="line"/>
+      <point x="365" y="176" type="line"/>
+      <point x="426" y="631" type="line"/>
+      <point x="428" y="636"/>
+      <point x="428" y="641" type="qcurve" smooth="yes"/>
+      <point x="428" y="662"/>
+      <point x="387" y="692"/>
+      <point x="362" y="692" type="qcurve" smooth="yes"/>
+      <point x="294" y="692"/>
+      <point x="261" y="606" type="qcurve" smooth="yes"/>
+      <point x="247" y="568"/>
+      <point x="229" y="460" type="qcurve"/>
+      <point x="157" y="1" type="line"/>
+      <point x="40" y="1" type="line"/>
+      <point x="90" y="381" type="line" smooth="yes"/>
+      <point x="107" y="510"/>
+      <point x="113" y="535" type="qcurve"/>
+      <point x="143" y="643"/>
+      <point x="215" y="683" type="qcurve" smooth="yes"/>
+      <point x="317" y="739"/>
+      <point x="403" y="739" type="qcurve" smooth="yes"/>
+      <point x="466" y="739"/>
+      <point x="553" y="664"/>
+      <point x="553" y="612" type="qcurve" smooth="yes"/>
+      <point x="553" y="603"/>
+    </contour>
+  </outline>
+</glyph>

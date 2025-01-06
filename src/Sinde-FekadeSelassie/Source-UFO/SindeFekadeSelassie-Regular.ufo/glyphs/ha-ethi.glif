@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha-ethi" format="2">
+  <advance width="596"/>
+  <unicode hex="1200"/>
+  <unicode hex="F041"/>
+  <outline>
+    <contour>
+      <point x="530" y="733" type="qcurve"/>
+      <point x="453" y="730"/>
+      <point x="415" y="730" type="qcurve"/>
+      <point x="392" y="547"/>
+      <point x="334" y="168" type="qcurve"/>
+      <point x="323" y="106"/>
+      <point x="276" y="70" type="qcurve" smooth="yes"/>
+      <point x="241" y="44"/>
+      <point x="213" y="44" type="qcurve" smooth="yes"/>
+      <point x="186" y="44"/>
+      <point x="170" y="72" type="qcurve" smooth="yes"/>
+      <point x="155" y="97"/>
+      <point x="159" y="120" type="qcurve" smooth="yes"/>
+      <point x="251" y="730" type="line"/>
+      <point x="130" y="727" type="line"/>
+      <point x="40" y="144" type="line" smooth="yes"/>
+      <point x="33" y="101"/>
+      <point x="62" y="54" type="qcurve" smooth="yes"/>
+      <point x="94" y="0"/>
+      <point x="149" y="0" type="qcurve" smooth="yes"/>
+      <point x="158" y="0"/>
+      <point x="167" y="2" type="qcurve"/>
+      <point x="256" y="17"/>
+      <point x="306" y="38" type="qcurve" smooth="yes"/>
+      <point x="381" y="70"/>
+      <point x="421" y="130" type="qcurve" smooth="yes"/>
+      <point x="448" y="172"/>
+      <point x="464" y="277" type="qcurve" smooth="yes"/>
+      <point x="471" y="320"/>
+    </contour>
+  </outline>
+</glyph>
