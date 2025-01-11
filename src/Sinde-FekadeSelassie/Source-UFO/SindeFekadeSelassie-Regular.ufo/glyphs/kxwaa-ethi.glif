@@ -2,12 +2,11 @@
 <glyph name="kxwaa-ethi" format="2">
   <advance width="900"/>
   <unicode hex="12C3"/>
-  <unicode hex="F0F0"/>
   <outline>
     <contour>
       <point x="823" y="12" type="line"/>
       <point x="834" y="-27"/>
-      <point x="858" y="-90" type="qcurve" smooth="yes"/>
+      <point x="858" y="-90" type="qcurve"/>
       <point x="860" y="-94"/>
       <point x="860" y="-96" type="qcurve" smooth="yes"/>
       <point x="860" y="-109"/>
@@ -48,7 +47,7 @@
       <point x="249" y="697" type="line"/>
       <point x="205" y="697" type="line"/>
       <point x="158" y="666"/>
-      <point x="150" y="662" type="qcurve" smooth="yes"/>
+      <point x="150" y="662" type="qcurve"/>
       <point x="133" y="652"/>
       <point x="111" y="648" type="qcurve"/>
       <point x="86" y="642"/>
@@ -69,16 +68,16 @@
       <point x="457" y="753"/>
       <point x="475" y="767" type="qcurve" smooth="yes"/>
       <point x="498" y="785"/>
-      <point x="516" y="789" type="qcurve" smooth="yes"/>
+      <point x="516" y="789" type="qcurve"/>
       <point x="538" y="795"/>
       <point x="566" y="795" type="qcurve" smooth="yes"/>
       <point x="604" y="795"/>
       <point x="604" y="781" type="qcurve" smooth="yes"/>
       <point x="604" y="777"/>
-      <point x="600" y="772" type="qcurve" smooth="yes"/>
+      <point x="600" y="772" type="qcurve"/>
       <point x="587" y="754"/>
       <point x="582" y="690"/>
-      <point x="572" y="673" type="qcurve" smooth="yes"/>
+      <point x="572" y="673" type="qcurve"/>
       <point x="561" y="653"/>
       <point x="523" y="658" type="qcurve" smooth="yes"/>
       <point x="463" y="665"/>

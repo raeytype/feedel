@@ -2,7 +2,6 @@
 <glyph name="gwaa-ethi" format="2">
   <advance width="627"/>
   <unicode hex="1313"/>
-  <unicode hex="F0D5"/>
   <outline>
     <contour>
       <point x="465" y="271" type="qcurve" smooth="yes"/>
@@ -28,7 +27,7 @@
       <point x="93" y="725"/>
       <point x="93" y="707" type="qcurve" smooth="yes"/>
       <point x="93" y="703"/>
-      <point x="95" y="700" type="qcurve" smooth="yes"/>
+      <point x="95" y="700" type="qcurve"/>
       <point x="111" y="679"/>
       <point x="111" y="655" type="qcurve" smooth="yes"/>
       <point x="111" y="628"/>
@@ -55,7 +54,7 @@
       <point x="46" y="382"/>
       <point x="46" y="364" type="qcurve" smooth="yes"/>
       <point x="46" y="360"/>
-      <point x="48" y="357" type="qcurve" smooth="yes"/>
+      <point x="48" y="357" type="qcurve"/>
       <point x="64" y="336"/>
       <point x="64" y="312" type="qcurve" smooth="yes"/>
       <point x="64" y="285"/>

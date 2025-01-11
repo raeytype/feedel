@@ -2,7 +2,6 @@
 <glyph name="shwa-ethi" format="2">
   <advance width="710"/>
   <unicode hex="123F"/>
-  <unicode hex="F06C"/>
   <outline>
     <contour>
       <point x="634" y="-1" type="line"/>

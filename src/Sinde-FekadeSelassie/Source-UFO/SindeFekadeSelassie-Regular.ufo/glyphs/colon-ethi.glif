@@ -2,7 +2,6 @@
 <glyph name="colon-ethi" format="2">
   <advance width="287"/>
   <unicode hex="1365"/>
-  <unicode hex="F096"/>
   <outline>
     <contour>
       <point x="247" y="370" type="line"/>

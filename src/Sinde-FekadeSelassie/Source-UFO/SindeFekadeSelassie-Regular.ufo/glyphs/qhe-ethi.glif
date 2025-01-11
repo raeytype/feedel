@@ -2,7 +2,6 @@
 <glyph name="qhe-ethi" format="2">
   <advance width="774"/>
   <unicode hex="1255"/>
-  <unicode hex="F072"/>
   <outline>
     <contour>
       <point x="734" y="383" type="qcurve" smooth="yes"/>
@@ -96,7 +95,7 @@
       <point x="324" y="479"/>
       <point x="301" y="474" type="qcurve" smooth="yes"/>
       <point x="264" y="465"/>
-      <point x="244" y="429" type="qcurve" smooth="yes"/>
+      <point x="244" y="429" type="qcurve"/>
       <point x="225" y="397"/>
       <point x="225" y="354" type="qcurve" smooth="yes"/>
       <point x="225" y="331"/>

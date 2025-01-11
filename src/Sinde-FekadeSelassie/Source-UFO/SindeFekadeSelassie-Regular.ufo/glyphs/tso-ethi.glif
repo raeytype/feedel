@@ -2,7 +2,6 @@
 <glyph name="tso-ethi" format="2">
   <advance width="651"/>
   <unicode hex="133E"/>
-  <unicode hex="F0EA"/>
   <outline>
     <contour>
       <point x="611" y="616" type="qcurve" smooth="yes"/>
@@ -13,7 +12,7 @@
       <point x="571" y="349"/>
       <point x="571" y="225" type="qcurve" smooth="yes"/>
       <point x="571" y="211"/>
-      <point x="569" y="196" type="qcurve" smooth="yes"/>
+      <point x="569" y="196" type="qcurve"/>
       <point x="562" y="153" type="line"/>
       <point x="443" y="153" type="line"/>
       <point x="449" y="213" type="line" smooth="yes"/>
@@ -45,7 +44,7 @@
       <point x="150" y="492"/>
       <point x="150" y="570" type="qcurve" smooth="yes"/>
       <point x="150" y="583"/>
-      <point x="152" y="597" type="qcurve" smooth="yes"/>
+      <point x="152" y="597" type="qcurve"/>
       <point x="159" y="660"/>
       <point x="236" y="705" type="qcurve" smooth="yes"/>
       <point x="306" y="746"/>

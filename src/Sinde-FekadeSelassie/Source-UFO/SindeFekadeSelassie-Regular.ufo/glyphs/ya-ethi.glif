@@ -2,7 +2,6 @@
 <glyph name="ya-ethi" format="2">
   <advance width="526"/>
   <unicode hex="12E8"/>
-  <unicode hex="F0B9"/>
   <outline>
     <contour>
       <point x="486" y="600" type="qcurve" smooth="yes"/>
@@ -36,7 +35,7 @@
       <point x="486" y="671"/>
     </contour>
     <contour>
-      <point x="349" y="560" type="qcurve" smooth="yes"/>
+      <point x="349" y="560" type="qcurve"/>
       <point x="351" y="569"/>
       <point x="351" y="583" type="qcurve" smooth="yes"/>
       <point x="351" y="621"/>
@@ -52,7 +51,7 @@
       <point x="197" y="425"/>
       <point x="232" y="438" type="qcurve" smooth="yes"/>
       <point x="262" y="449"/>
-      <point x="273" y="456" type="qcurve" smooth="yes"/>
+      <point x="273" y="456" type="qcurve"/>
       <point x="314" y="480"/>
       <point x="327" y="500" type="qcurve" smooth="yes"/>
       <point x="336" y="514"/>

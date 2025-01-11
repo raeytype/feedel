@@ -2,7 +2,6 @@
 <glyph name="maa-ethi" format="2">
   <advance width="912"/>
   <unicode hex="121B"/>
-  <unicode hex="F052"/>
   <outline>
     <contour>
       <point x="670" y="2" type="line"/>
@@ -79,7 +78,7 @@
       <point x="204" y="636" type="qcurve" smooth="yes"/>
       <point x="196" y="618"/>
       <point x="190" y="569" type="qcurve"/>
-      <point x="160" y="352" type="line" smooth="yes"/>
+      <point x="160" y="352" type="line"/>
       <point x="159" y="342"/>
       <point x="159" y="334" type="qcurve" smooth="yes"/>
       <point x="159" y="286"/>

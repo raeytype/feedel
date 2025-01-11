@@ -2,7 +2,6 @@
 <glyph name="kxo-ethi" format="2">
   <advance width="758"/>
   <unicode hex="12BE"/>
-  <unicode hex="F0A7"/>
   <outline>
     <contour>
       <point x="354" y="584" type="line"/>

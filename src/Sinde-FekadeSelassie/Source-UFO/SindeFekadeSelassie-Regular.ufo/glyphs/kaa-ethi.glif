@@ -2,7 +2,6 @@
 <glyph name="kaa-ethi" format="2">
   <advance width="629"/>
   <unicode hex="12AB"/>
-  <unicode hex="F09F"/>
   <outline>
     <contour>
       <point x="559" y="462" type="qcurve"/>

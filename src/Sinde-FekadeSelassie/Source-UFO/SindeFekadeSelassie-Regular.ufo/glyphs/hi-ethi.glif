@@ -2,14 +2,13 @@
 <glyph name="hi-ethi" format="2">
   <advance width="664"/>
   <unicode hex="1202"/>
-  <unicode hex="F043"/>
   <outline>
     <contour>
       <point x="573" y="-46" type="qcurve"/>
       <point x="573" y="-62"/>
       <point x="502" y="-62" type="qcurve" smooth="yes"/>
       <point x="433" y="-62"/>
-      <point x="418" y="-45" type="qcurve" smooth="yes"/>
+      <point x="418" y="-45" type="qcurve"/>
       <point x="405" y="-32"/>
       <point x="374" y="-1" type="qcurve"/>
       <point x="299" y="0" type="line"/>

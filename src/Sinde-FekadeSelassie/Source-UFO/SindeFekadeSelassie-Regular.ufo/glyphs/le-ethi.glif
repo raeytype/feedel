@@ -2,7 +2,6 @@
 <glyph name="le-ethi" format="2">
   <advance width="652"/>
   <unicode hex="120D"/>
-  <unicode hex="F04A"/>
   <outline>
     <contour>
       <point x="495" y="1" type="line"/>
@@ -31,7 +30,7 @@
       <point x="85" y="-4"/>
       <point x="73" y="0" type="qcurve" smooth="yes"/>
       <point x="44" y="9"/>
-      <point x="41" y="44" type="qcurve" smooth="yes"/>
+      <point x="41" y="44" type="qcurve"/>
       <point x="40" y="61"/>
       <point x="40" y="78" type="qcurve" smooth="yes"/>
       <point x="40" y="231"/>
@@ -51,7 +50,7 @@
       <point x="612" y="2" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="119" type="qcurve" smooth="yes"/>
+      <point x="261" y="119" type="qcurve"/>
       <point x="244" y="142"/>
       <point x="212" y="142" type="qcurve" smooth="yes"/>
       <point x="165" y="142"/>
@@ -59,7 +58,7 @@
       <point x="165" y="31"/>
       <point x="201" y="31" type="qcurve" smooth="yes"/>
       <point x="237" y="31"/>
-      <point x="261" y="53" type="qcurve" smooth="yes"/>
+      <point x="261" y="53" type="qcurve"/>
       <point x="268" y="60"/>
       <point x="268" y="86" type="qcurve"/>
       <point x="267" y="112"/>

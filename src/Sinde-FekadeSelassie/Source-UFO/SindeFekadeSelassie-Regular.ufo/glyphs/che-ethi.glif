@@ -2,7 +2,6 @@
 <glyph name="che-ethi" format="2">
   <advance width="1081"/>
   <unicode hex="132D"/>
-  <unicode hex="F0E0"/>
   <outline>
     <contour>
       <point x="1041" y="316" type="qcurve" smooth="yes"/>
@@ -38,7 +37,7 @@
       <point x="547" y="0" type="qcurve" smooth="yes"/>
       <point x="460" y="0" type="line" smooth="yes"/>
       <point x="410" y="0"/>
-      <point x="395" y="4" type="qcurve" smooth="yes"/>
+      <point x="395" y="4" type="qcurve"/>
       <point x="357" y="16"/>
       <point x="357" y="59" type="qcurve" smooth="yes"/>
       <point x="357" y="78"/>
@@ -60,12 +59,12 @@
       <point x="333" y="427"/>
       <point x="333" y="316" type="qcurve" smooth="yes"/>
       <point x="333" y="276"/>
-      <point x="294" y="258" type="qcurve" smooth="yes"/>
+      <point x="294" y="258" type="qcurve"/>
       <point x="270" y="246"/>
       <point x="243" y="246" type="qcurve" smooth="yes"/>
       <point x="116" y="246" type="line" smooth="yes"/>
       <point x="78" y="246"/>
-      <point x="62" y="258" type="qcurve" smooth="yes"/>
+      <point x="62" y="258" type="qcurve"/>
       <point x="40" y="273"/>
       <point x="40" y="315" type="qcurve" smooth="yes"/>
       <point x="40" y="335"/>
@@ -99,7 +98,7 @@
     <contour>
       <point x="556" y="87" type="qcurve"/>
       <point x="558" y="120"/>
-      <point x="536" y="127" type="qcurve" smooth="yes"/>
+      <point x="536" y="127" type="qcurve"/>
       <point x="528" y="130"/>
       <point x="491" y="130" type="qcurve"/>
       <point x="469" y="34" type="line"/>
@@ -122,7 +121,7 @@
     <contour>
       <point x="941" y="333" type="qcurve" smooth="yes"/>
       <point x="941" y="364"/>
-      <point x="915" y="372" type="qcurve" smooth="yes"/>
+      <point x="915" y="372" type="qcurve"/>
       <point x="907" y="374"/>
       <point x="867" y="374" type="qcurve"/>
       <point x="851" y="276" type="line"/>

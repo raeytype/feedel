@@ -2,7 +2,6 @@
 <glyph name="nyaa-ethi" format="2">
   <advance width="763"/>
   <unicode hex="129B"/>
-  <unicode hex="F093"/>
   <outline>
     <contour>
       <point x="446" y="592" type="line"/>
@@ -14,7 +13,7 @@
       <point x="602" y="456" type="qcurve"/>
       <point x="602" y="446"/>
       <point x="589" y="438"/>
-      <point x="578" y="440" type="qcurve" smooth="yes"/>
+      <point x="578" y="440" type="qcurve"/>
       <point x="535" y="450"/>
       <point x="499" y="492" type="qcurve" smooth="yes"/>
       <point x="469" y="528"/>
@@ -46,7 +45,7 @@
       <point x="302" y="243"/>
       <point x="279" y="243" type="qcurve" smooth="yes"/>
       <point x="273" y="243"/>
-      <point x="264" y="241" type="qcurve" smooth="yes"/>
+      <point x="264" y="241" type="qcurve"/>
       <point x="134" y="218" type="line"/>
       <point x="120" y="215"/>
       <point x="108" y="215" type="qcurve" smooth="yes"/>
@@ -88,7 +87,7 @@
       <point x="704" y="755"/>
       <point x="695" y="723" type="qcurve" smooth="yes"/>
       <point x="685" y="685"/>
-      <point x="676" y="669" type="qcurve" smooth="yes"/>
+      <point x="676" y="669" type="qcurve"/>
       <point x="669" y="658"/>
       <point x="655" y="658" type="qcurve" smooth="yes"/>
       <point x="651" y="658"/>

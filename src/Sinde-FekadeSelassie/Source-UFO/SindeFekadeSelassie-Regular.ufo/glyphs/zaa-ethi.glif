@@ -2,7 +2,6 @@
 <glyph name="zaa-ethi" format="2">
   <advance width="568"/>
   <unicode hex="12DB"/>
-  <unicode hex="F0B2"/>
   <outline>
     <contour>
       <point x="542" y="740" type="line"/>

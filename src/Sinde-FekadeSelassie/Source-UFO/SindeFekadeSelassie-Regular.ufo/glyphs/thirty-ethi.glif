@@ -2,14 +2,13 @@
 <glyph name="thirty-ethi" format="2">
   <advance width="579"/>
   <unicode hex="1374"/>
-  <unicode hex="F023"/>
   <outline>
     <contour>
       <point x="539" y="13" type="line"/>
       <point x="429" y="13" type="line"/>
       <point x="429" y="380" type="line" smooth="yes"/>
       <point x="429" y="427"/>
-      <point x="424" y="442" type="qcurve" smooth="yes"/>
+      <point x="424" y="442" type="qcurve"/>
       <point x="418" y="463"/>
       <point x="397" y="463" type="qcurve" smooth="yes"/>
       <point x="379" y="463"/>
@@ -59,7 +58,7 @@
       <point x="158" y="-161"/>
       <point x="126" y="-161" type="qcurve" smooth="yes"/>
       <point x="111" y="-161"/>
-      <point x="99" y="-154" type="qcurve" smooth="yes"/>
+      <point x="99" y="-154" type="qcurve"/>
       <point x="95" y="-152"/>
       <point x="95" y="-148" type="qcurve" smooth="yes"/>
       <point x="95" y="-144"/>
@@ -85,7 +84,7 @@
       <point x="169" y="552"/>
       <point x="137" y="552" type="qcurve" smooth="yes"/>
       <point x="122" y="552"/>
-      <point x="110" y="559" type="qcurve" smooth="yes"/>
+      <point x="110" y="559" type="qcurve"/>
       <point x="106" y="561"/>
       <point x="106" y="565" type="qcurve" smooth="yes"/>
       <point x="106" y="570"/>

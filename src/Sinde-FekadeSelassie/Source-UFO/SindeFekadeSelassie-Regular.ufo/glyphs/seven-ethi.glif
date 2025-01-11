@@ -2,7 +2,6 @@
 <glyph name="seven-ethi" format="2">
   <advance width="563"/>
   <unicode hex="136F"/>
-  <unicode hex="F037"/>
   <outline>
     <contour>
       <point x="504" y="5" type="qcurve"/>
@@ -16,7 +15,7 @@
       <point x="341" y="16"/>
       <point x="205" y="0" type="qcurve" smooth="yes"/>
       <point x="180" y="-3"/>
-      <point x="156" y="8" type="qcurve" smooth="yes"/>
+      <point x="156" y="8" type="qcurve"/>
       <point x="123" y="22"/>
       <point x="123" y="55" type="qcurve" smooth="yes"/>
       <point x="123" y="76"/>
@@ -69,7 +68,7 @@
       <point x="139" y="-161"/>
       <point x="106" y="-161" type="qcurve" smooth="yes"/>
       <point x="92" y="-161"/>
-      <point x="80" y="-154" type="qcurve" smooth="yes"/>
+      <point x="80" y="-154" type="qcurve"/>
       <point x="76" y="-152"/>
       <point x="76" y="-148" type="qcurve" smooth="yes"/>
       <point x="76" y="-144"/>
@@ -95,7 +94,7 @@
       <point x="139" y="552"/>
       <point x="107" y="552" type="qcurve" smooth="yes"/>
       <point x="92" y="552"/>
-      <point x="80" y="559" type="qcurve" smooth="yes"/>
+      <point x="80" y="559" type="qcurve"/>
       <point x="76" y="561"/>
       <point x="76" y="565" type="qcurve" smooth="yes"/>
       <point x="76" y="570"/>

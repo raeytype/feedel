@@ -2,13 +2,12 @@
 <glyph name="she-ethi" format="2">
   <advance width="663"/>
   <unicode hex="123D"/>
-  <unicode hex="F06A"/>
   <outline>
     <contour>
       <point x="389" y="704" type="line"/>
       <point x="488" y="580" type="line"/>
       <point x="558" y="556"/>
-      <point x="579" y="537" type="qcurve" smooth="yes"/>
+      <point x="579" y="537" type="qcurve"/>
       <point x="605" y="515"/>
       <point x="605" y="467" type="qcurve" smooth="yes"/>
       <point x="605" y="442"/>
@@ -57,11 +56,11 @@
       <point x="623" y="801"/>
       <point x="623" y="786" type="qcurve" smooth="yes"/>
       <point x="623" y="782"/>
-      <point x="619" y="778" type="qcurve" smooth="yes"/>
+      <point x="619" y="778" type="qcurve"/>
       <point x="604" y="760"/>
       <point x="595" y="724" type="qcurve" smooth="yes"/>
       <point x="585" y="683"/>
-      <point x="576" y="667" type="qcurve" smooth="yes"/>
+      <point x="576" y="667" type="qcurve"/>
       <point x="569" y="656"/>
       <point x="555" y="656" type="qcurve" smooth="yes"/>
       <point x="551" y="656"/>

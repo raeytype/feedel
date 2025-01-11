@@ -2,7 +2,6 @@
 <glyph name="pharyngeala-ethi" format="2">
   <advance width="600"/>
   <unicode hex="12D0"/>
-  <unicode hex="F0AD"/>
   <outline>
     <contour>
       <point x="541" y="569" type="qcurve" smooth="yes"/>
@@ -12,7 +11,7 @@
       <point x="413" y="56"/>
       <point x="350" y="27" type="qcurve" smooth="yes"/>
       <point x="309" y="8"/>
-      <point x="272" y="4" type="qcurve" smooth="yes"/>
+      <point x="272" y="4" type="qcurve"/>
       <point x="258" y="2"/>
       <point x="206" y="2" type="qcurve" smooth="yes"/>
       <point x="132" y="2"/>

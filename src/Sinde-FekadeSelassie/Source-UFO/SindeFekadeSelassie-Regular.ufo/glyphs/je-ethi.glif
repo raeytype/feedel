@@ -2,7 +2,6 @@
 <glyph name="je-ethi" format="2">
   <advance width="898"/>
   <unicode hex="1305"/>
-  <unicode hex="F0CF"/>
   <outline>
     <contour>
       <point x="786" y="762" type="qcurve" smooth="yes"/>
@@ -12,7 +11,7 @@
       <point x="728" y="651"/>
       <point x="715" y="651" type="qcurve" smooth="yes"/>
       <point x="694" y="651"/>
-      <point x="666" y="662" type="qcurve" smooth="yes"/>
+      <point x="666" y="662" type="qcurve"/>
       <point x="630" y="675"/>
       <point x="608" y="698" type="qcurve"/>
       <point x="524" y="698" type="line"/>
@@ -27,7 +26,7 @@
       <point x="858" y="419"/>
       <point x="858" y="412" type="qcurve" smooth="yes"/>
       <point x="858" y="408"/>
-      <point x="854" y="403" type="qcurve" smooth="yes"/>
+      <point x="854" y="403" type="qcurve"/>
       <point x="829" y="377"/>
       <point x="817" y="317"/>
       <point x="813" y="289" type="qcurve"/>
@@ -52,7 +51,7 @@
       <point x="598" y="151"/>
       <point x="608" y="151" type="qcurve" smooth="yes"/>
       <point x="639" y="151"/>
-      <point x="648" y="148" type="qcurve" smooth="yes"/>
+      <point x="648" y="148" type="qcurve"/>
       <point x="667" y="141"/>
       <point x="667" y="116" type="qcurve" smooth="yes"/>
       <point x="667" y="110"/>
@@ -85,7 +84,7 @@
       <point x="225" y="140"/>
       <point x="225" y="152" type="qcurve" smooth="yes"/>
       <point x="225" y="154"/>
-      <point x="224" y="156" type="qcurve" smooth="yes"/>
+      <point x="224" y="156" type="qcurve"/>
       <point x="210" y="173"/>
       <point x="182" y="210" type="qcurve"/>
       <point x="171" y="227"/>
@@ -114,7 +113,7 @@
       <point x="617" y="738" type="line"/>
       <point x="629" y="752"/>
       <point x="675" y="784"/>
-      <point x="688" y="786" type="qcurve" smooth="yes"/>
+      <point x="688" y="786" type="qcurve"/>
       <point x="710" y="790"/>
       <point x="738" y="790" type="qcurve" smooth="yes"/>
       <point x="790" y="790"/>
@@ -135,7 +134,7 @@
       <point x="287" y="263" type="qcurve"/>
       <point x="291" y="260"/>
       <point x="383" y="278"/>
-      <point x="390" y="282" type="qcurve" smooth="yes"/>
+      <point x="390" y="282" type="qcurve"/>
       <point x="468" y="320"/>
       <point x="492" y="340" type="qcurve" smooth="yes"/>
       <point x="559" y="396"/>
