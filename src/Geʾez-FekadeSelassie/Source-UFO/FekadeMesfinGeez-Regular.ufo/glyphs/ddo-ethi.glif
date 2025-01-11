@@ -2,7 +2,6 @@
 <glyph name="ddo-ethi" format="2">
   <advance width="1659"/>
   <unicode hex="12FE"/>
-  <unicode hex="00C6"/>
   <outline>
     <contour>
       <point x="694" y="1104" type="qcurve"/>

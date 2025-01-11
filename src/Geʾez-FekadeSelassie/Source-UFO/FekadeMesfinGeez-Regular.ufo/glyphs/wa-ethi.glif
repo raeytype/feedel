@@ -2,7 +2,6 @@
 <glyph name="wa-ethi" format="2">
   <advance width="1548"/>
   <unicode hex="12C8"/>
-  <unicode hex="F0A8"/>
   <outline>
     <contour>
       <point x="1245" y="1290" type="qcurve" smooth="yes"/>

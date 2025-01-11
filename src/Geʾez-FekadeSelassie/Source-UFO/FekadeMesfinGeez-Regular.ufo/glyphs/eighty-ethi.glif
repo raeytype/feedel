@@ -2,7 +2,6 @@
 <glyph name="eighty-ethi" format="2">
   <advance width="1819"/>
   <unicode hex="1379"/>
-  <unicode hex="F02A"/>
   <outline>
     <contour>
       <point x="78" y="1083" type="qcurve"/>

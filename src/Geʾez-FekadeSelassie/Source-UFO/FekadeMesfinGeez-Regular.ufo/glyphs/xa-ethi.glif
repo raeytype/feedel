@@ -2,7 +2,6 @@
 <glyph name="xa-ethi" format="2">
   <advance width="1391"/>
   <unicode hex="1280"/>
-  <unicode hex="F085"/>
   <outline>
     <contour>
       <point x="733" y="1090" type="line"/>

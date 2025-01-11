@@ -2,7 +2,6 @@
 <glyph name="mu-ethi" format="2">
   <advance width="2519"/>
   <unicode hex="1219"/>
-  <unicode hex="F050"/>
   <outline>
     <contour>
       <point x="1913" y="866" type="line"/>

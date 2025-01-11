@@ -2,7 +2,6 @@
 <glyph name="faa-ethi" format="2">
   <advance width="1532"/>
   <unicode hex="134B"/>
-  <unicode hex="F0F3"/>
   <outline>
     <contour>
       <point x="1470" y="274" type="qcurve"/>

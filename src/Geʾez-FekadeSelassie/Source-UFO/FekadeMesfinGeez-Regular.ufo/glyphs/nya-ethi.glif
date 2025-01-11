@@ -2,7 +2,6 @@
 <glyph name="nya-ethi" format="2">
   <advance width="1669"/>
   <unicode hex="1298"/>
-  <unicode hex="F092"/>
   <outline>
     <contour>
       <point x="1446" y="1522" type="qcurve"/>

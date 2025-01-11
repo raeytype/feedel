@@ -2,7 +2,6 @@
 <glyph name="gwaa-ethi" format="2">
   <advance width="1264"/>
   <unicode hex="1313"/>
-  <unicode hex="00D5"/>
   <outline>
     <contour>
       <point x="592" y="1329" type="line" smooth="yes"/>

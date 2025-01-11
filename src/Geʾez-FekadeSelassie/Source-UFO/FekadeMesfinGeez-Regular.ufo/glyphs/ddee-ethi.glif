@@ -2,7 +2,6 @@
 <glyph name="ddee-ethi" format="2">
   <advance width="1831"/>
   <unicode hex="12FC"/>
-  <unicode hex="00C4"/>
   <outline>
     <contour>
       <point x="631" y="1063" type="line"/>

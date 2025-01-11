@@ -2,7 +2,6 @@
 <glyph name="mwi-ethiopic" format="2">
   <advance width="2542"/>
   <unicode hex="1381"/>
-  <unicode hex="0051"/>
   <outline>
     <contour>
       <point x="1499" y="1053" type="qcurve" smooth="yes"/>

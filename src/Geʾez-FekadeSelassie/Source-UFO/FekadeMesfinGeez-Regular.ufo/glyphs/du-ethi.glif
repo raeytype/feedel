@@ -2,7 +2,6 @@
 <glyph name="du-ethi" format="2">
   <advance width="1843"/>
   <unicode hex="12F1"/>
-  <unicode hex="F0C1"/>
   <outline>
     <contour>
       <point x="1677" y="578" type="qcurve"/>

@@ -2,7 +2,6 @@
 <glyph name="fa-ethi" format="2">
   <advance width="1563"/>
   <unicode hex="1348"/>
-  <unicode hex="F0EF"/>
   <outline>
     <contour>
       <point x="946" y="1210" type="qcurve" smooth="yes"/>

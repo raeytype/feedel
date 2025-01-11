@@ -2,7 +2,6 @@
 <glyph name="ga-ethi" format="2">
   <advance width="1006"/>
   <unicode hex="1308"/>
-  <unicode hex="F0D1"/>
   <outline>
     <contour>
       <point x="653" y="1317" type="qcurve"/>

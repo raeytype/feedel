@@ -2,7 +2,6 @@
 <glyph name="aglottal-ethi" format="2">
   <advance width="1386"/>
   <unicode hex="12A0"/>
-  <unicode hex="F099"/>
   <outline>
     <contour>
       <point x="616" y="1032" type="line"/>

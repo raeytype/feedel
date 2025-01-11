@@ -2,7 +2,6 @@
 <glyph name="dde-ethi" format="2">
   <advance width="1796"/>
   <unicode hex="12FD"/>
-  <unicode hex="00C5"/>
   <outline>
     <contour>
       <point x="1174" y="1077" type="qcurve"/>

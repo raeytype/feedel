@@ -2,7 +2,6 @@
 <glyph name="ho-ethi" format="2">
   <advance width="1636"/>
   <unicode hex="1206"/>
-  <unicode hex="F047"/>
   <outline>
     <contour>
       <point x="1327" y="1378" type="line" smooth="yes"/>

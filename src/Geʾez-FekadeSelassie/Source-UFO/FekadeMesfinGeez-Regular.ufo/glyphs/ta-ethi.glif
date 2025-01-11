@@ -2,7 +2,6 @@
 <glyph name="ta-ethi" format="2">
   <advance width="1653"/>
   <unicode hex="1270"/>
-  <unicode hex="F07A"/>
   <outline>
     <contour>
       <point x="885" y="1370" type="line"/>

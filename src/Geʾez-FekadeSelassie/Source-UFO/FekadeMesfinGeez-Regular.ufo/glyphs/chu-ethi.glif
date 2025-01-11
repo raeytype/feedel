@@ -2,7 +2,6 @@
 <glyph name="chu-ethi" format="2">
   <advance width="2537"/>
   <unicode hex="1329"/>
-  <unicode hex="F0DC"/>
   <outline>
     <contour>
       <point x="1894" y="369" type="qcurve"/>

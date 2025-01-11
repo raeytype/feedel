@@ -2,7 +2,6 @@
 <glyph name="pa-ethi" format="2">
   <advance width="1663"/>
   <unicode hex="1350"/>
-  <unicode hex="F0F7"/>
   <outline>
     <contour>
       <point x="1589" y="1303" type="line"/>

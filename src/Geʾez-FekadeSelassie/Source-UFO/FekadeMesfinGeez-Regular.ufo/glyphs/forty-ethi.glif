@@ -2,7 +2,6 @@
 <glyph name="forty-ethi" format="2">
   <advance width="1358"/>
   <unicode hex="1375"/>
-  <unicode hex="F024"/>
   <outline>
     <contour>
       <point x="719" y="1202" type="line"/>

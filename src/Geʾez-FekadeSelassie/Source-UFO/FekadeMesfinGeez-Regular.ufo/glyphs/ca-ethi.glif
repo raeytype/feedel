@@ -2,7 +2,6 @@
 <glyph name="ca-ethi" format="2">
   <advance width="1614"/>
   <unicode hex="1278"/>
-  <unicode hex="F080"/>
   <outline>
     <contour>
       <point x="926" y="958" type="line"/>

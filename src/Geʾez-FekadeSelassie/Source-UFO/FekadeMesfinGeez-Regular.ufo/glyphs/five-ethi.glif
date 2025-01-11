@@ -2,7 +2,6 @@
 <glyph name="five-ethi" format="2">
   <advance width="1358"/>
   <unicode hex="136D"/>
-  <unicode hex="F035"/>
   <outline>
     <contour>
       <point x="1214" y="936" type="qcurve"/>

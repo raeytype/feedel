@@ -2,7 +2,6 @@
 <glyph name="two-ethi" format="2">
   <advance width="1094"/>
   <unicode hex="136A"/>
-  <unicode hex="F032"/>
   <outline>
     <contour>
       <point x="614" y="1280" type="qcurve" smooth="yes"/>

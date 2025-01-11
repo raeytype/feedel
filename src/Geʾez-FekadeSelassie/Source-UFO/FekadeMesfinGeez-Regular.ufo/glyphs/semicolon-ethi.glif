@@ -2,7 +2,6 @@
 <glyph name="semicolon-ethi" format="2">
   <advance width="831"/>
   <unicode hex="1364"/>
-  <unicode hex="F097"/>
   <outline>
     <contour>
       <point x="303" y="1030" type="qcurve"/>

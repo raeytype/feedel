@@ -2,7 +2,6 @@
 <glyph name="laa-ethi" format="2">
   <advance width="1153"/>
   <unicode hex="120B"/>
-  <unicode hex="F049"/>
   <outline>
     <contour>
       <point x="575" y="1380" type="line"/>

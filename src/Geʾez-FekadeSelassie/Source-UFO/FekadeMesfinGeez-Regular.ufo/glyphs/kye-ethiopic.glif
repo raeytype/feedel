@@ -2,7 +2,6 @@
 <glyph name="kye-ethiopic" format="2">
   <advance width="1550"/>
   <unicode hex="2DCD"/>
-  <unicode hex="00A1"/>
   <outline>
     <contour>
       <point x="1196" y="1020" type="qcurve" smooth="yes"/>

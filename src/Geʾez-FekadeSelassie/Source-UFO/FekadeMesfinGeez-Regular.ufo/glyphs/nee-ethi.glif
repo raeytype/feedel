@@ -2,7 +2,6 @@
 <glyph name="nee-ethi" format="2">
   <advance width="1079"/>
   <unicode hex="1294"/>
-  <unicode hex="F08E"/>
   <outline>
     <contour>
       <point x="997" y="311" type="qcurve" smooth="yes"/>

@@ -2,7 +2,6 @@
 <glyph name="qya-ethiopic" format="2">
   <advance width="1542"/>
   <unicode hex="2DC0"/>
-  <unicode hex="006D"/>
   <outline>
     <contour>
       <point x="852" y="586" type="line"/>

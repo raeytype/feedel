@@ -2,7 +2,6 @@
 <glyph name="pwi-ethiopic" format="2">
   <advance width="1853"/>
   <unicode hex="138D"/>
-  <unicode hex="00F8"/>
   <outline>
     <contour>
       <point x="1137" y="696" type="line"/>

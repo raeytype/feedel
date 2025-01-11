@@ -2,7 +2,6 @@
 <glyph name="six-ethi" format="2">
   <advance width="1018"/>
   <unicode hex="136E"/>
-  <unicode hex="F036"/>
   <outline>
     <contour>
       <point x="352" y="1174" type="qcurve"/>

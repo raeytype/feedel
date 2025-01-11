@@ -2,7 +2,6 @@
 <glyph name="hundred-ethi" format="2">
   <advance width="1055"/>
   <unicode hex="137B"/>
-  <unicode hex="F029"/>
   <outline>
     <contour>
       <point x="612" y="1270" type="qcurve" smooth="yes"/>

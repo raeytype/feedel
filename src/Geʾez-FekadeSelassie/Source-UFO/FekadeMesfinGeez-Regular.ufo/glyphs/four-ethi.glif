@@ -2,7 +2,6 @@
 <glyph name="four-ethi" format="2">
   <advance width="991"/>
   <unicode hex="136C"/>
-  <unicode hex="F034"/>
   <outline>
     <contour>
       <point x="555" y="1198" type="qcurve" smooth="yes"/>

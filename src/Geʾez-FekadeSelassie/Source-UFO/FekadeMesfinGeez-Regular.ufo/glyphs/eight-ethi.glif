@@ -2,7 +2,6 @@
 <glyph name="eight-ethi" format="2">
   <advance width="1372"/>
   <unicode hex="1370"/>
-  <unicode hex="F038"/>
   <outline>
     <contour>
       <point x="1313" y="1165" type="line"/>

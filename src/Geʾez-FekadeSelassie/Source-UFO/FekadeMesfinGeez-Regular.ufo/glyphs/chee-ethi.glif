@@ -2,7 +2,6 @@
 <glyph name="chee-ethi" format="2">
   <advance width="2771"/>
   <unicode hex="132C"/>
-  <unicode hex="F0DF"/>
   <outline>
     <contour>
       <point x="1919" y="74" type="line"/>

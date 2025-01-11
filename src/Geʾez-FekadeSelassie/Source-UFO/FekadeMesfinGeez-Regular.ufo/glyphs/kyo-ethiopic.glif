@@ -2,7 +2,6 @@
 <glyph name="kyo-ethiopic" format="2">
   <advance width="1503"/>
   <unicode hex="2DCE"/>
-  <unicode hex="00A2"/>
   <outline>
     <contour>
       <point x="649" y="1470" type="qcurve"/>

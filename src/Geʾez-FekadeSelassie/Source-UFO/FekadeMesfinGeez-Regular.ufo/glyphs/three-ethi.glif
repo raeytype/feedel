@@ -2,7 +2,6 @@
 <glyph name="three-ethi" format="2">
   <advance width="1055"/>
   <unicode hex="136B"/>
-  <unicode hex="F033"/>
   <outline>
     <contour>
       <point x="938" y="1188" type="line"/>

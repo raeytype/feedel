@@ -2,7 +2,6 @@
 <glyph name="rwa-ethi" format="2">
   <advance width="1755"/>
   <unicode hex="122F"/>
-  <unicode hex="F062"/>
   <outline>
     <contour>
       <point x="1130" y="1126" type="line"/>

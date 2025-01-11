@@ -2,7 +2,6 @@
 <glyph name="pwee-ethiopic" format="2">
   <advance width="1683"/>
   <unicode hex="138E"/>
-  <unicode hex="00F9"/>
   <outline>
     <contour>
       <point x="922" y="375" type="line"/>

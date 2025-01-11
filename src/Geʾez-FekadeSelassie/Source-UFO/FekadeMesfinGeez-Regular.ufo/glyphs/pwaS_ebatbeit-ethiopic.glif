@@ -2,7 +2,6 @@
 <glyph name="pwaSebatbeit-ethiopic" format="2">
   <advance width="1815"/>
   <unicode hex="138C"/>
-  <unicode hex="00F7"/>
   <outline>
     <contour>
       <point x="971" y="4" type="qcurve"/>

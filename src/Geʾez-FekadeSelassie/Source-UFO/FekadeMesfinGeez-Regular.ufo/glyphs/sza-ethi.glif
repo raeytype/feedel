@@ -2,7 +2,6 @@
 <glyph name="sza-ethi" format="2">
   <advance width="1763"/>
   <unicode hex="1220"/>
-  <unicode hex="F057"/>
   <outline>
     <contour>
       <point x="199" y="1047" type="qcurve"/>

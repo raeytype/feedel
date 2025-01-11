@@ -2,7 +2,6 @@
 <glyph name="yee-ethi" format="2">
   <advance width="1544"/>
   <unicode hex="12EC"/>
-  <unicode hex="F0BD"/>
   <outline>
     <contour>
       <point x="471" y="1438" type="qcurve" smooth="yes"/>

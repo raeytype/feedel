@@ -2,7 +2,6 @@
 <glyph name="ra-ethi" format="2">
   <advance width="1237"/>
   <unicode hex="1228"/>
-  <unicode hex="F05B"/>
   <outline>
     <contour>
       <point x="647" y="127" type="qcurve" smooth="yes"/>

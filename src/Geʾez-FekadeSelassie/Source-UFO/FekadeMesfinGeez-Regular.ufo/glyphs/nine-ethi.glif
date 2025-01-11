@@ -2,7 +2,6 @@
 <glyph name="nine-ethi" format="2">
   <advance width="1118"/>
   <unicode hex="1371"/>
-  <unicode hex="F039"/>
   <outline>
     <contour>
       <point x="877" y="1194" type="line"/>

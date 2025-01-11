@@ -2,7 +2,6 @@
 <glyph name="va-ethi" format="2">
   <advance width="1393"/>
   <unicode hex="1268"/>
-  <unicode hex="F0FB"/>
   <outline>
     <contour>
       <point x="115" y="1632" type="qcurve"/>

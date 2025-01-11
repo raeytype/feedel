@@ -2,7 +2,6 @@
 <glyph name="fwi-ethiopic" format="2">
   <advance width="1917"/>
   <unicode hex="1389"/>
-  <unicode hex="00F2"/>
   <outline>
     <contour>
       <point x="492" y="106" type="qcurve"/>

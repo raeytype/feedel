@@ -2,7 +2,6 @@
 <glyph name="cha-ethi" format="2">
   <advance width="2380"/>
   <unicode hex="1328"/>
-  <unicode hex="F0DB"/>
   <outline>
     <contour>
       <point x="1616" y="43" type="qcurve" smooth="yes"/>

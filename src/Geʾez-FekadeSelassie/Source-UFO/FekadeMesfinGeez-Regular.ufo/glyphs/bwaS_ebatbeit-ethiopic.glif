@@ -2,7 +2,6 @@
 <glyph name="bwaSebatbeit-ethiopic" format="2">
   <advance width="1860"/>
   <unicode hex="1384"/>
-  <unicode hex="0076"/>
   <outline>
     <contour>
       <point x="1012" y="391" type="line" smooth="yes"/>

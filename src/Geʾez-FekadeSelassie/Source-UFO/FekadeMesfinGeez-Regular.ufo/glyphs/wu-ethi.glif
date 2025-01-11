@@ -2,7 +2,6 @@
 <glyph name="wu-ethi" format="2">
   <advance width="1950"/>
   <unicode hex="12C9"/>
-  <unicode hex="F0A9"/>
   <outline>
     <contour>
       <point x="895" y="487" type="line"/>

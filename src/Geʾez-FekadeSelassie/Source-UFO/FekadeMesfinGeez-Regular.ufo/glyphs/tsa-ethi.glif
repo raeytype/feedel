@@ -2,7 +2,6 @@
 <glyph name="tsa-ethi" format="2">
   <advance width="1214"/>
   <unicode hex="1338"/>
-  <unicode hex="F0E7"/>
   <outline>
     <contour>
       <point x="594" y="1284" type="qcurve" smooth="yes"/>

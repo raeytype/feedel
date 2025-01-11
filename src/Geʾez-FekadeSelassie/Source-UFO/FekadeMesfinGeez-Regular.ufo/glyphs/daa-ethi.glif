@@ -2,7 +2,6 @@
 <glyph name="daa-ethi" format="2">
   <advance width="1319"/>
   <unicode hex="12F3"/>
-  <unicode hex="F0C3"/>
   <outline>
     <contour>
       <point x="711" y="1368" type="qcurve" smooth="yes"/>

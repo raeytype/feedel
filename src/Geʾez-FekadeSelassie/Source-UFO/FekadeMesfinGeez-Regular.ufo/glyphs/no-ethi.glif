@@ -2,7 +2,6 @@
 <glyph name="no-ethi" format="2">
   <advance width="1505"/>
   <unicode hex="1296"/>
-  <unicode hex="F090"/>
   <outline>
     <contour>
       <point x="1022" y="1022" type="qcurve"/>

@@ -2,7 +2,6 @@
 <glyph name="gya-ethiopic" format="2">
   <advance width="1159"/>
   <unicode hex="2DD8"/>
-  <unicode hex="00D1"/>
   <outline>
     <contour>
       <point x="1030" y="0" type="qcurve"/>

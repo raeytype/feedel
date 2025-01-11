@@ -2,7 +2,6 @@
 <glyph name="fwee-ethiopic" format="2">
   <advance width="1800"/>
   <unicode hex="138A"/>
-  <unicode hex="00F4"/>
   <outline>
     <contour>
       <point x="1155" y="1212" type="qcurve"/>

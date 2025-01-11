@@ -2,7 +2,6 @@
 <glyph name="ddu-ethi" format="2">
   <advance width="1843"/>
   <unicode hex="12F9"/>
-  <unicode hex="00C1"/>
   <outline>
     <contour>
       <point x="580" y="1122" type="qcurve"/>

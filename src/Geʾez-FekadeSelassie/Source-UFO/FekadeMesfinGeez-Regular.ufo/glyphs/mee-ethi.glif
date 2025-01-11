@@ -2,7 +2,6 @@
 <glyph name="mee-ethi" format="2">
   <advance width="2175"/>
   <unicode hex="121C"/>
-  <unicode hex="F053"/>
   <outline>
     <contour>
       <point x="1888" y="422" type="line" smooth="yes"/>

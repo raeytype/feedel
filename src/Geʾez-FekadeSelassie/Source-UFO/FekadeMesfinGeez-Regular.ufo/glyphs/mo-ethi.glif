@@ -2,7 +2,6 @@
 <glyph name="mo-ethi" format="2">
   <advance width="1878"/>
   <unicode hex="121E"/>
-  <unicode hex="F055"/>
   <outline>
     <contour>
       <point x="1528" y="1362" type="qcurve"/>

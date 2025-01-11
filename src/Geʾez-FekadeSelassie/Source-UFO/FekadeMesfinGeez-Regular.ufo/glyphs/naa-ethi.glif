@@ -2,7 +2,6 @@
 <glyph name="naa-ethi" format="2">
   <advance width="1368"/>
   <unicode hex="1293"/>
-  <unicode hex="F08D"/>
   <outline>
     <contour>
       <point x="598" y="1378" type="qcurve"/>

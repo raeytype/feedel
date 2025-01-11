@@ -2,7 +2,6 @@
 <glyph name="ni-ethi" format="2">
   <advance width="1159"/>
   <unicode hex="1292"/>
-  <unicode hex="F08C"/>
   <outline>
     <contour>
       <point x="1077" y="-84" type="qcurve"/>

@@ -2,7 +2,6 @@
 <glyph name="nwa-ethi" format="2">
   <advance width="1350"/>
   <unicode hex="1297"/>
-  <unicode hex="F091"/>
   <outline>
     <contour>
       <point x="1268" y="1268" type="qcurve"/>

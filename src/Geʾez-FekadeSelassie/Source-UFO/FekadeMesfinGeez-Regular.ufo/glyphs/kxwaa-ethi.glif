@@ -2,7 +2,6 @@
 <glyph name="kxwaa-ethi" format="2">
   <advance width="1882"/>
   <unicode hex="12C3"/>
-  <unicode hex="F02C"/>
   <outline>
     <contour>
       <point x="557" y="1419" type="qcurve"/>

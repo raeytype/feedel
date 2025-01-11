@@ -2,7 +2,6 @@
 <glyph name="ree-ethi" format="2">
   <advance width="1497"/>
   <unicode hex="122C"/>
-  <unicode hex="F05F"/>
   <outline>
     <contour>
       <point x="895" y="1292" type="line" smooth="yes"/>

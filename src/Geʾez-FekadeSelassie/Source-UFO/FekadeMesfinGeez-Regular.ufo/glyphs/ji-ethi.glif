@@ -2,7 +2,6 @@
 <glyph name="ji-ethi" format="2">
   <advance width="1686"/>
   <unicode hex="1302"/>
-  <unicode hex="F0CC"/>
   <outline>
     <contour>
       <point x="903" y="-14" type="line"/>
